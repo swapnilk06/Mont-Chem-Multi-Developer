@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://montchem.gauravnikam.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
